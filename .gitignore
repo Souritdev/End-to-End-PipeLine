@@ -211,7 +211,7 @@ __marimo__/
 workflow.txt
 
 # My Directories
-data
-models
-reports
+data/
+models/
+reports/
 
